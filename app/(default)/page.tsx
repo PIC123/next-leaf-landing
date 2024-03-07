@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Home - Next Leaf Tech',
-  description: 'Page description',
+  description: 'Crafting Experiences that Inspire and Transform',
 }
 
 import Hero from '@/components/hero'
