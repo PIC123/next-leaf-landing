@@ -8,7 +8,6 @@ import Features from '@/components/features'
 import Newsletter from '@/components/newsletter'
 import Zigzag from '@/components/zigzag'
 import Testimonials from '@/components/testimonials'
-import LeafEffect from '@/components/LeafEffect';
 import VineEffect from '@/components/VineEffects';
 
 export default function Home() {
