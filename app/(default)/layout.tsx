@@ -7,6 +7,7 @@ import 'aos/dist/aos.css'
 
 import PageIllustration from '@/components/page-illustration'
 import Footer from '@/components/ui/footer'
+import VineEffect from '@/components/VineEffects'
 
 export default function DefaultLayout({
   children,
@@ -26,7 +27,6 @@ export default function DefaultLayout({
   return (
     <>
       <main className="grow">
-
         <PageIllustration />
 
         {children}
